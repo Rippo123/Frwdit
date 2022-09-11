@@ -1,3 +1,3 @@
 TgCrypto
-pyrogram==2.0.51
+pyrogram>=2.0.51
 Dnspython
